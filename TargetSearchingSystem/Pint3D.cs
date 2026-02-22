@@ -1,10 +1,10 @@
 namespace TargetSearchingSystem;
 
-public struct Point3D
+public readonly struct Point3D
 {
-    public float X { get; set; }
-    public float Y { get; set; }
-    public float Z { get; set; }
+    public float X { get; }
+    public float Y { get; }
+    public float Z { get; }
 
     public override string ToString()
     {
@@ -17,5 +17,14 @@ public struct Point3D
         Y = y;
         Z = z;
     }
-    
+
+    public double GetDistance(Point3D other)
+    {
+        double dx = this.X - other.X;
+        double dy = this.Y - other.Y;
+        double dz = this.Z - other.Z;
+
+        double result = Math.Sqrt(dx * dx + dy * dy + dz * dz);
+        return result;
+    }
 }
