@@ -1,0 +1,14 @@
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/bin/Debug/net10.0/HeroAcademyBattleSimulator
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/bin/Debug/net10.0/HeroAcademyBattleSimulator.deps.json
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/bin/Debug/net10.0/HeroAcademyBattleSimulator.runtimeconfig.json
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/bin/Debug/net10.0/HeroAcademyBattleSimulator.dll
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/bin/Debug/net10.0/HeroAcademyBattleSimulator.pdb
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/obj/Debug/net10.0/HeroAcademyBattleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/obj/Debug/net10.0/HeroAcademyBattleSimulator.AssemblyInfoInputs.cache
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/obj/Debug/net10.0/HeroAcademyBattleSimulator.AssemblyInfo.cs
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/obj/Debug/net10.0/HeroAcademyBattleSimulator.csproj.CoreCompileInputs.cache
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/obj/Debug/net10.0/HeroAcademyBattleSimulator.dll
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/obj/Debug/net10.0/refint/HeroAcademyBattleSimulator.dll
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/obj/Debug/net10.0/HeroAcademyBattleSimulator.pdb
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/obj/Debug/net10.0/HeroAcademyBattleSimulator.genruntimeconfig.cache
+/Users/sungman5/RiderProjects/SecondRiderStudies/HeroAcademyBattleSimulator/obj/Debug/net10.0/ref/HeroAcademyBattleSimulator.dll

@@ -1,0 +1,14 @@
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/bin/Debug/net10.0/LibraryLogisticsSystem
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/bin/Debug/net10.0/LibraryLogisticsSystem.deps.json
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/bin/Debug/net10.0/LibraryLogisticsSystem.runtimeconfig.json
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/bin/Debug/net10.0/LibraryLogisticsSystem.dll
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/bin/Debug/net10.0/LibraryLogisticsSystem.pdb
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/obj/Debug/net10.0/LibraryLogisticsSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/obj/Debug/net10.0/LibraryLogisticsSystem.AssemblyInfoInputs.cache
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/obj/Debug/net10.0/LibraryLogisticsSystem.AssemblyInfo.cs
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/obj/Debug/net10.0/LibraryLogisticsSystem.csproj.CoreCompileInputs.cache
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/obj/Debug/net10.0/LibraryLogisticsSystem.dll
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/obj/Debug/net10.0/refint/LibraryLogisticsSystem.dll
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/obj/Debug/net10.0/LibraryLogisticsSystem.pdb
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/obj/Debug/net10.0/LibraryLogisticsSystem.genruntimeconfig.cache
+/Users/sungman5/RiderProjects/SecondRiderStudies/LibraryLogisticsSystem/obj/Debug/net10.0/ref/LibraryLogisticsSystem.dll
